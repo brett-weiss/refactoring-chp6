@@ -2,7 +2,7 @@
 // Mechanics
   // 1. Create Function that accepts source data
   // 2. Function should return a deep copy of data (never change source data)
-  //    Consider a test to verify source data object does not change after transform function.
+      // Consider a test to verify source data object does not change after transform function.
   // 3. Bring logic into new transform function and return result as new field.
   // 4. Change client code to use the new field.
 

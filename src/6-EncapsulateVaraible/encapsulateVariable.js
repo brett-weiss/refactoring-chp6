@@ -1,5 +1,12 @@
 // Encapsulate Variable p.132
 
+// Mechanics
+// > Create encapsulating functions to access and update the variable.
+// > Run static checks.
+// > Replace each reference to a variable with the encapsulating function. Test!
+// > Restrict visibility to the variable. Ensures didn’t miss any references.`
+// > Test
+
 // The test case is the client in this scenario and will need to be updated
 // as you encapsulate this variable.
 

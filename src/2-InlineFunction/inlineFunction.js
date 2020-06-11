@@ -1,5 +1,11 @@
 // Extract Function p.115
 
+// Mechanics
+// > Identify all callers of the function
+// > Replace each with the function body
+// > Test after each replacement
+// > Remove function
+
 // Questions:
 // Where do you see an opportunity to reduce delegation
 // Where is the function unneeded to help explain the logic

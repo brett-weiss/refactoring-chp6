@@ -1,4 +1,12 @@
-// Combine Functions into Class p.144
+// Combine Functions Into Class p.144
+
+// Mechanics
+// > Encapsulate Record to the common data the functions share
+  // Introduce parameter object
+// > Move Function for each function in the new class
+// > Extract Function to to logic that manipulates data
+
+// Contrived imagine different modules for Client 1 and Client 2.
 
 // Client 1
 export function getFreeThrowShootingPercentage(player) {

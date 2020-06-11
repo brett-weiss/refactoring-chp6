@@ -1,13 +1,12 @@
 // Split Phase p.154
 
-// What are the two phases?
-
 // Mechanics
 // > Extract second phase. Test.
 // > Introduce intermediate object. Test.
   // Move variables one at at time. Test.
 // > Extract Function! Test.
 
+// What are the two phases
 export function teamReport(games, players) {
   let totalPoints = 0;
   let totalRebounds = 0;
