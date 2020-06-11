@@ -8,7 +8,7 @@
 
 ## Install
 * clone repo
-* run `npm install` on parent directory.
+* run `npm install` from parent directory.
 
 ## Run Tests
 * `npm test` or `yarn test`
