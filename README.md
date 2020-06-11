@@ -8,7 +8,7 @@
 
 ## Install
 * clone repo
-* run npm init
+* run `npm install` on parent directory.
 
 ## Run Tests
 * `npm test` or `yarn test`
